@@ -21,6 +21,7 @@ export const siteConfig = {
     linkedin: 'https://www.linkedin.com/in/lawrence-oguguom-270aab116/',
     twitter: 'https://x.com/lawrencecally4',
     instagram: 'https://www.instagram.com/wrence94',
+    github: 'https://github.com/lawrenceoguguom/',
   },
 
   /* Developer roles shown in the hero typewriter */

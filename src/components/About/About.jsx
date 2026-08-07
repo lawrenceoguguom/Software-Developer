@@ -114,22 +114,22 @@ const About = () => {
           <motion.p className="about__text" variants={fadeUp}>
             I&apos;m a Computer Science graduate and software developer based in
             Ibadan, Nigeria. I build modern web applications with React,
-            JavaScript, Node.js, and MySQL — and I care about writing clean,
+            JavaScript, Node.js, and MySQL. I care about writing clean,
             maintainable code that solves real problems.
           </motion.p>
 
           <motion.p className="about__text" variants={fadeUp}>
-            Through internships at CoopVest, Flux Creative Technologies, and
+            Through internships at CoopVest, Huawei, Flux Creative Technologies, and
             iTeMs UI, I&apos;ve gained hands-on experience in frontend and
-            full-stack development. I&apos;m also comfortable working with Linux
-            systems, Windows administration, cloud technologies, and networking
-            fundamentals.
+            full-stack development, while also developing strong expertise
+            in Linux systems, Windows administration, cloud technologies,
+            and networking fundamentals.
           </motion.p>
 
           <motion.p className="about__text" variants={fadeUp}>
-            A defining moment in my journey was being part of the Nigerian team
+            A defining milestone in my journey was being part of the Nigerian team
             that won the Grand Prize at the Huawei ICT Competition 2024 Global
-            Finals — an experience that sharpened my technical skills and
+            Finals in China. An experience that sharpened my technical skills and
             teamwork under pressure.
           </motion.p>
 

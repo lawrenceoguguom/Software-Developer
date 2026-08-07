@@ -114,7 +114,7 @@ const Hero = () => {
 
               {siteConfig.social.github ? (
                 <a
-                  href={siteConfig.social.github}
+                  href={siteConfig.github}
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="GitHub profile"
