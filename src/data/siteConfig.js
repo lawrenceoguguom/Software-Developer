@@ -5,6 +5,9 @@
  */
 
 import resumePdf from '../assets/Oguguom Lawrence_Resume.pdf';
+// import openeulerPdf from '../assets/HCIA-openEuler Oguguom Lawrence.pdf'
+// import javaxcriptPdf from '../assets/Javascript Essentials.pdf'
+
 
 export const siteConfig = {
   name: 'Oguguom Lawrence',
@@ -13,6 +16,8 @@ export const siteConfig = {
   location: 'Ibadan, Oyo State, Nigeria',
   email: 'lawrenceoguguom@gmail.com',
   resume: resumePdf,
+  // euler: openeulerPdf,
+  // javaxcript: javaxcriptPdf,
 
   /* Update your GitHub URL here */
   github: 'https://github.com/lawrenceoguguom/',

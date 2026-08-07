@@ -88,7 +88,7 @@ const About = () => {
         <SectionHeading
           label="About Me"
           title="Software Developer with a passion for building"
-          description="Computer Science graduate focused on creating reliable, well-crafted software across the full stack."
+          description="Computer Science graduate focused on engineering scalable, dependable software across the full stack."
         />
       </ScrollReveal>
 
