@@ -1,4 +1,3 @@
-import placeholderCert from '../assets/law3.png';
 import hciaEulerCert from '../assets/hcia.pdf';
 import jsEssentialsCert from '../assets/Javascript Essentials.pdf';
 import flux from '../assets/flux.pdf'

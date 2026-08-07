@@ -10,8 +10,8 @@ import { fadeUp, staggerContainer } from '../../utils/animations';
 const stats = [
   { label: 'Technologies', value: 17, icon: FaCode },
   { label: 'Internships', value: 4, icon: FaServer },
-  { label: 'Certifications', value: 6, icon: FaGraduationCap },
-  { label: 'Global Awards', value: 3, icon: FaAward },
+  { label: 'Certifications', value: 8, icon: FaGraduationCap },
+  { label: 'Awards', value: 3, icon: FaAward },
 ];
 
 const highlights = [
