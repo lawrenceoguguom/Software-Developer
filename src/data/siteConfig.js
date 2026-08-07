@@ -14,12 +14,12 @@ export const siteConfig = {
   email: 'lawrenceoguguom@gmail.com',
   resume: resumePdf,
 
-  /* Update your GitHub URL here when ready */
-  github: '',
+  /* Update your GitHub URL here */
+  github: 'https://github.com/lawrenceoguguom/',
 
   social: {
-    linkedin: 'https://www.linkedin.com/in/lawrence-oguguom',
-    twitter: 'https://x.com/lawrence94',
+    linkedin: 'https://www.linkedin.com/in/lawrence-oguguom-270aab116/',
+    twitter: 'https://x.com/lawrencecally4',
     instagram: 'https://www.instagram.com/wrence94',
   },
 

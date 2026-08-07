@@ -2,16 +2,16 @@ import React, { useEffect, useState, useRef } from 'react';
 import './About.css';
 import { motion, useInView } from 'framer-motion';
 import { FaAward, FaCode, FaGraduationCap, FaServer } from 'react-icons/fa';
-import aboutImage from '../../assets/lawrence2.jpeg';
+import aboutImage from '../../assets/lawrence.jpeg';
 import SectionHeading from '../shared/SectionHeading';
 import ScrollReveal from '../shared/ScrollReveal';
 import { fadeUp, staggerContainer } from '../../utils/animations';
 
 const stats = [
   { label: 'Technologies', value: 17, icon: FaCode },
-  { label: 'Internships', value: 3, icon: FaServer },
+  { label: 'Internships', value: 4, icon: FaServer },
   { label: 'Certifications', value: 6, icon: FaGraduationCap },
-  { label: 'Global Awards', value: 1, icon: FaAward },
+  { label: 'Global Awards', value: 3, icon: FaAward },
 ];
 
 const highlights = [

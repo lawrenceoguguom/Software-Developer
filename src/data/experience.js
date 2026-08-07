@@ -62,12 +62,12 @@ export const experience = [
     period: '2024',
     type: 'achievement',
     description:
-      'Member of the Nigerian team that won the Grand Prize at the Huawei ICT Competition 2024 Global Finals — a prestigious international technology competition.',
+      'Member of the Nigerian team that won the Grand Prize at the Huawei ICT Competition 2024 Global Finals held in China. A prestigious international technology competition.',
     highlights: [
-      'Grand Prize — Global Finals 2024',
-      'National Winner',
-      'Regional Winner',
-      'Networking & cloud computing track',
+      'Grand Prize - Global Finals 2024',
+      'National Winner - First Prize',
+      'Regional Winner - Grand Prize',
+      'Networking & cloud computing challenges',
     ],
   },
 ];

@@ -112,9 +112,9 @@ const Hero = () => {
                 <FaLinkedin />
               </a>
 
-              {githubUrl ? (
+              {siteConfig.social.github ? (
                 <a
-                  href={githubUrl}
+                  href={siteConfig.social.github}
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="GitHub profile"
